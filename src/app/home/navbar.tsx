@@ -1,7 +1,7 @@
 "use client";
 import React, { useState } from "react";
 import Link from "next/link";
-import { Search, ChevronDown, Phone, MapPin, Menu } from "lucide-react";
+import { Search, ChevronDown, Phone, Menu } from "lucide-react";
 
 const TopNavbar = () => {
   return (
